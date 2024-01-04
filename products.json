@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name":" Li - ning Halbertec 8000",
+        "price": 319,
+        "image": "img/Product/vot-cau-long-lining-halbertec-8000-noi-dia.jpg"
+    },
+    {
+        "id": 2,
+        "name":" Yonex Astrox 88D Pro",
+        "price": 200,
+        "image": "img/Product/vot-cau-long-yonex-astrox-88d-pro-chinh-hang-1.webp"
+    },
+    {
+        "id": 3,
+        "name":" Yonex Nanoflare 800 Pro",
+        "price": 205,
+        "image": "img/Product/vot-cau-long-yonex-nanoflare-800-pro-chinh-hang_1698803472.webp"
+    },
+    {
+        "id": 4,
+        "name":" Yonex Arc Saber 7 Pro",
+        "price": 185,
+        "image": "img/Product/vot-cau-long-yonex-arcsaber-7-pro-chinh-hang-4.webp"
+    },
+    {
+        "id": 5,
+        "name":" Yonex Astrox Nextage",
+        "price": 100,
+        "image": "img/Product/vot-cau-long-yonex-astrox-nextage-chinh-hang-1.webp"
+    },
+    {
+        "id": 6,
+        "name":" Yonex Arc Saber 11 Pro (JP)",
+        "price": 200,
+        "image": "img/Product/ynx-arc11-p-1.webp"
+    },
+    {
+        "id": 7,
+        "name":" Yonex Astrox 100Zz Kurenai",
+        "price": 285,
+        "image": "img/Product/ynx-ax100zz-yu-1-247x296.webp"
+    },
+    {
+        "id": 8,
+        "name":" Li-ning Aeronaut 9000C Olympic",
+        "price": "Out of stock",
+        "image": "img/Product/Lining-9000C-Olympic-1-768x689.png"
+    },
+
+    {
+        "id": 9,
+        "name":" Li - ning Halbertec 9000",
+        "price": "In Coming",
+        "image": "img/Product/vot-cau-long-lining-halbertec-9000.jpg"
+    }
+]
